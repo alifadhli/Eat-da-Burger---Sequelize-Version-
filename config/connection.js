@@ -1,0 +1,2 @@
+/* Thanks to Sequelize Cli there is no need for this file anymore
+The connections to the local db and the JawsDB for Heroku are config.json */

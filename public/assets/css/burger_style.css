@@ -1,0 +1,22 @@
+body {
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 20px;
+    
+    background: url(https://image.freepik.com/free-photo/top-view-of-bowl-with-lentils-and-variety-of-condiments_1220-423.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.main-banner {
+    background: rgba(171, 181, 211, 0.34);
+    padding: 30px;
+}
+
+.panel {
+    background: #aaaaaa;
+}
+
+.footer{
+	position: center;
+	color: rgba(33, 130, 194, 0.91);
+}
